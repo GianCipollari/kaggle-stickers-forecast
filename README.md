@@ -1,5 +1,6 @@
 # kaggle-stickers-forecast
-Focus on the null treatment before the forecasting. 
+Null treatment-sales forecasting. 
+
 #In this repository:
     You will find everything to replicate the notebook, the .ipynb and the .csv files
     in the first cell there a list with all the libraries a packages that i used.
